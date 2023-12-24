@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+tests/testwave.py
+wave/pysimplewaves.egg-info/PKG-INFO
+wave/pysimplewaves.egg-info/SOURCES.txt
+wave/pysimplewaves.egg-info/dependency_links.txt
+wave/pysimplewaves.egg-info/top_level.txt
